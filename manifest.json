@@ -2,7 +2,7 @@
   "name": "Calistenia Pro",
   "short_name": "Calistenia",
   "description": "Entrenamiento de calistenia con temporizador y voz",
-  "start_url": "/calistenia/Calistenia16.html",
+  "start_url": "/calistenia/calistenia16.html",
   "scope": "/calistenia/",
   "display": "standalone",
   "orientation": "portrait",
