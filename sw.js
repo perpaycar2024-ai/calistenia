@@ -1,7 +1,7 @@
-const CACHE_NAME = 'calistenia-v1';
+const CACHE_NAME = 'calistenia-v2';
 
 const ASSETS = [
-  '/calistenia/Calistenia16.html',
+  '/calistenia/calistenia16.html',
   '/calistenia/manifest.json'
 ];
 
